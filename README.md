@@ -1,2 +1,2 @@
 # diverheart.github.io
-website development project
+website development project using html and css
